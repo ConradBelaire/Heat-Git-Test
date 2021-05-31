@@ -1,0 +1,3 @@
+A file is like code
+But it is readable text?
+It must be Python
